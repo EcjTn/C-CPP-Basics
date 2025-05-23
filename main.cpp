@@ -9,9 +9,6 @@
 using string_t = std::string;
 
 
-
-
-//remember this is 2ND OPTION RUSSIAN ROULETE
 void game(std::string fName) {
 
     srand(time(0)); // Seed the random number generator
