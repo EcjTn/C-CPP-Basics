@@ -38,10 +38,6 @@ void game(std::string fName) {
 
 }
 
-
-
-
-
 //FIRST OPTION
 void calc() {
     char op;
@@ -83,10 +79,6 @@ void calc() {
         default:
             std::cout << "Invalid operator.\n";
     }
-
-
-
-
 
 
 }
@@ -133,8 +125,6 @@ void doForLoop() {
         std::cout << "This is a For Loop!" << i << '\n';
     }
 }
-
-
 
 
 void banki(string_t fName, int currentMoney){
